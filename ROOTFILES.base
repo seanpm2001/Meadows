@@ -18,13 +18,13 @@
 /CREDITS
 /CREDITS.wiki
 /DRM-free_label.en.svg
-/INITIAL_COMMIT.txt
 /INSTALL
 /INSTALL.rst
 /K.desktop
 /LICENSE-GPL.txt
 /LICENSE-GPL3.txt
 /LICENSE.txt
+/Meadows_LowRes_PlaceholderLogo.jpeg
 /README.md
 /ROOTFILES.base
 /SECURITY.md
@@ -34,4 +34,3 @@
 /gitlab-ci.yml
 /makefile.mk
 /pull_request_template.md
-/README.md
